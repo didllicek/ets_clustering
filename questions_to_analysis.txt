@@ -1,0 +1,19 @@
+Question 310: What is the employment status of the chief income earner in your household, is he/she
+Question 430: And how many of these are typically in the house during the day (for example for 5-6 hours during the day)
+Question 43111: How many people under 15 years of age live in your home?
+Question 4312: And how many of these are typically in the house during the day (for exanmple for 5-6 hours during the day)
+Question 450: I would now like to ask some questions about your home.  Which best describes your home?
+Question 452: Do you own or rent your home?
+Question 453: What year was your house or apartment built INT ENTER FOR EXAMPLE: 1981- CAPTURE THE FOUR DIGITS
+Question 460: How many bedrooms are there in your home
+Question 470: Which of the following do you also use?: Electricity (electric central heating storage heating)
+Question 2094: Do you have a single timer to control when your heating comes on and goes off?
+Question 2150: What temperature is your home mostly set at?
+Question 4701: Which of the following describe how you heat water in your: Gas
+Question 472: Do any of the following reasons apply?: I prefer cooler temperature
+Question 472: Do any of the following reasons apply?: I cannot afford to have the home as warm as I would like
+Question 472: Do any of the following reasons apply?: It is hard to keep the home warm because it is not well insulated
+Question 473: Have you had to go without heating during the last 12 months through lack of money?
+Question 474: Have any of the following ever applied to you?: I had to go without heat on a cold day
+Question 474: Have any of the following ever applied to you?: I had to go to bed to keep warm
+Question 474: Have any of the following ever applied to you?: I lit the fire late or switched on the heat late because I did not have enough fuel or money for fuel
